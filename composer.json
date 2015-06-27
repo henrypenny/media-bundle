@@ -1,5 +1,5 @@
 {
-    "name":         "thrace-project/media-bundle",
+    "name":         "henrypenny/media-bundle",
     "description":  "The `ThraceMediaBundle` handles file, video, audio and image upload plus some image manipulations.",
     "keywords":     ["thrace", "media", "upload", "symfony", "plupload", "crop", "jwplayer"],
     "type":         "symfony-bundle",
